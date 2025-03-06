@@ -4,9 +4,13 @@ const comanyroutes = require('./Routes/CompanyRotes')
 const productroutes = require('./Routes/ProductRoutes')
 const app = express()
 const cors = require('cors')
+const dotenv = require('dotenv')
 const path = require('path')
-
-mongoose.connect('mongodb://localhost:27017/Companies')
+dotenv.config()
+mongoose.connect(process.env.MONGO_URI,{
+    useNewUrlParser: true,
+  useUnifiedTopology: true
+})
 .then(()=>console.log("database connected successfully"))
 .catch((err)=>console.error("error conmecing to the database",err))
 app.use(express.json())
