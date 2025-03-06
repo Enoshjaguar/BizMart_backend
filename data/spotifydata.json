@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Spotify Premium Individual",
+      "price": "₹119/month (India) / $9.99/month (USA)",
+      "description": "Spotify Premium Individual offers an ad-free music experience with unlimited skips, offline downloads, and high-quality audio streaming. Enjoy millions of songs and podcasts without interruptions.",
+      "image": "uploads/spotify_premium_individual.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Spotify Premium Family",
+      "price": "₹179/month (India) / $15.99/month (USA)",
+      "description": "Spotify Premium Family allows up to 6 family members to enjoy ad-free music, personalized recommendations, and offline downloads under one subscription, while keeping individual accounts separate.",
+      "image": "uploads/spotify_premium_family.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Spotify Premium Duo",
+      "price": "₹149/month (India) / $12.99/month (USA)",
+      "description": "Spotify Premium Duo is designed for two people living under the same roof. It includes Duo Mix, a playlist that updates based on both users' listening habits.",
+      "image": "uploads/spotify_premium_duo.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Spotify Premium Student",
+      "price": "₹59/month (India) / $4.99/month (USA)",
+      "description": "Spotify Premium Student offers all the benefits of Premium at a discounted price for eligible students. It includes ad-free listening, offline downloads, and access to exclusive deals.",
+      "image": "uploads/spotify_premium_student.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Spotify Free",
+      "price": "Free",
+      "description": "Spotify Free lets you stream millions of songs and podcasts with occasional ads. Enjoy shuffle play and discover new music, though with some limitations like offline playback.",
+      "image": "uploads/spotify_free.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+  
+   
+    {
+      "name": "Blinding Lights - The Weeknd",
+      "price": "Included in Spotify Premium & Free",
+      "description": "One of the most streamed songs of all time, 'Blinding Lights' by The Weeknd is a synth-driven, retro-inspired hit that captivates listeners worldwide.",
+      "image": "uploads/blinding_lights.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Shape of You - Ed Sheeran",
+      "price": "Included in Spotify Premium & Free",
+      "description": "Ed Sheeran's 'Shape of You' is a record-breaking pop hit that has dominated charts globally. Its catchy melody and rhythmic beats make it a fan favorite.",
+      "image": "uploads/shape_of_you.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Dance Monkey - Tones and I",
+      "price": "Included in Spotify Premium & Free",
+      "description": "'Dance Monkey' by Tones and I is a viral sensation that took the world by storm, blending unique vocals with an infectious beat.",
+      "image": "uploads/dance_monkey.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Someone Like You - Adele",
+      "price": "Included in Spotify Premium & Free",
+      "description": "Adele's heartfelt ballad 'Someone Like You' is a timeless classic that touches on love and heartbreak, showcasing her powerful vocal range.",
+      "image": "uploads/someone_like_you.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+  
+    
+    {
+      "name": "Stay - The Kid LAROI, Justin Bieber",
+      "price": "Included in Spotify Premium & Free",
+      "description": "An energetic collaboration between The Kid LAROI and Justin Bieber, 'Stay' blends pop and electronic elements, making it a global hit.",
+      "image": "uploads/stay.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Levitating - Dua Lipa",
+      "price": "Included in Spotify Premium & Free",
+      "description": "Dua Lipa's 'Levitating' is a disco-inspired anthem that keeps listeners dancing with its upbeat tempo and catchy chorus.",
+      "image": "uploads/levitating.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Industry Baby - Lil Nas X, Jack Harlow",
+      "price": "Included in Spotify Premium & Free",
+      "description": "Lil Nas X and Jack Harlow's 'Industry Baby' is a high-energy hip-hop track with bold lyrics and a powerful brass-heavy beat.",
+      "image": "uploads/industry_baby.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "Heat Waves - Glass Animals",
+      "price": "Included in Spotify Premium & Free",
+      "description": "'Heat Waves' by Glass Animals is an atmospheric indie hit that gained widespread popularity due to its dreamy soundscape and emotional depth.",
+      "image": "uploads/heat_waves.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "good 4 u - Olivia Rodrigo",
+      "price": "Included in Spotify Premium & Free",
+      "description": "Olivia Rodrigo's 'good 4 u' combines pop-punk energy with raw emotions, making it an anthem of heartbreak and resilience.",
+      "image": "uploads/good_4_u.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    },
+    {
+      "name": "As It Was - Harry Styles",
+      "price": "Included in Spotify Premium & Free",
+      "description": "Harry Styles' 'As It Was' is a synth-driven pop masterpiece that explores themes of change and nostalgia with a fresh and engaging sound.",
+      "image": "uploads/as_it_was.png",
+      "company": "67b018ff3a0a05c5edb0b17d"
+    }
+  ]
+  

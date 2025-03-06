@@ -1,0 +1,150 @@
+[
+    {
+      "name": "Meta Quest 3",
+      "price": "₹47,999 (India) / $499 (USA)",
+      "description": "Next-gen VR headset with high-resolution display, powerful Snapdragon XR2 Gen 2, and mixed reality features.",
+      "image": "uploads/quest3.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Quest Pro",
+      "price": "₹1,19,999 (India) / $999 (USA)",
+      "description": "Premium VR headset with high-fidelity passthrough, eye tracking, and full-color mixed reality.",
+      "image": "uploads/questpro.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Ray-Ban Smart Glasses",
+      "price": "₹29,999 (India) / $299 (USA)",
+      "description": "Stylish smart glasses with built-in camera, hands-free voice control, and live streaming capabilities.",
+      "image": "uploads/rayban.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta AI Glasses",
+      "price": "₹39,999 (India) / $399 (USA)",
+      "description": "Advanced AI-powered AR glasses with real-time translation and holographic UI.",
+      "image": "uploads/aiglasses.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Portal Go",
+      "price": "₹16,999 (India) / $199 (USA)",
+      "description": "Portable smart display for video calls with AI-powered camera tracking and built-in Alexa integration.",
+      "image": "uploads/portalgo.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Portal Plus",
+      "price": "₹24,999 (India) / $349 (USA)",
+      "description": "10-inch smart display with AI-powered video calling, Alexa, and adaptive screen adjustment.",
+      "image": "uploads/portalplus.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Horizon Worlds",
+      "price": "Free",
+      "description": "A social VR platform that allows users to create, explore, and interact in virtual worlds.",
+      "image": "uploads/horizonworlds.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Horizon Workrooms",
+      "price": "Subscription-based",
+      "description": "A virtual reality meeting space designed for remote work collaboration.",
+      "image": "uploads/horizonworkrooms.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta AI",
+      "price": "Free",
+      "description": "An AI-powered assistant that integrates into Meta products like WhatsApp, Messenger, and Instagram.",
+      "image": "uploads/metaai.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Ads Manager",
+      "price": "Subscription-based",
+      "description": "A powerful tool for businesses to create, manage, and analyze ads on Facebook, Instagram, and WhatsApp.",
+      "image": "uploads/adsmanager.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Business Suite",
+      "price": "Free",
+      "description": "An all-in-one tool for managing Facebook, Instagram, and Messenger business accounts.",
+      "image": "uploads/businesssuite.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Facebook App",
+      "price": "Free",
+      "description": "The world's largest social media platform with billions of users worldwide.",
+      "image": "uploads/facebook.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Instagram",
+      "price": "Free",
+      "description": "A social media platform for sharing photos, videos, and reels.",
+      "image": "uploads/instagram.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "WhatsApp",
+      "price": "Free",
+      "description": "A widely used instant messaging platform with end-to-end encryption.",
+      "image": "uploads/whatsapp.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Messenger",
+      "price": "Free",
+      "description": "A messaging app integrated with Facebook, supporting text, voice, and video calls.",
+      "image": "uploads/messenger.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Verified",
+      "price": "₹699/month (India) / $11.99/month (USA)",
+      "description": "A subscription service that provides verification, customer support, and increased reach on Facebook and Instagram.",
+      "image": "uploads/metaverified.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Llama 3",
+      "price": "Enterprise pricing",
+      "description": "A large language model AI designed for businesses and developers.",
+      "image": "uploads/llama3.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Reality Labs",
+      "price": "Varies",
+      "description": "A division focused on VR and AR innovations, including Quest, Portal, and AI glasses.",
+      "image": "uploads/realitylabs.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Avatars",
+      "price": "Free",
+      "description": "3D customizable avatars used across Meta platforms for virtual interactions.",
+      "image": "uploads/metaavatars.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Pay",
+      "price": "Transaction-based",
+      "description": "A digital payment system integrated with Facebook, Instagram, and WhatsApp.",
+      "image": "uploads/metapay.png",
+      "company": "67a780e3ee668f82d1edc206"
+    },
+    {
+      "name": "Meta Connect",
+      "price": "Annual event",
+      "description": "Meta's annual event showcasing advancements in AR, VR, and AI.",
+      "image": "uploads/metaconnect.png",
+      "company": "67a780e3ee668f82d1edc206"
+    }
+  ]
+  

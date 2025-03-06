@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Stranger Things",
+      "price": "Included with Netflix Subscription",
+      "description": "A group of kids in the 1980s uncover a government secret and battle supernatural forces from the Upside Down.",
+      "image": "uploads/stranger-things.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Money Heist",
+      "price": "Included with Netflix Subscription",
+      "description": "A criminal mastermind known as 'The Professor' plans a heist on the Royal Mint of Spain, recruiting eight skilled robbers.",
+      "image": "uploads/money-heist.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Squid Game",
+      "price": "Included with Netflix Subscription",
+      "description": "Hundreds of cash-strapped contestants accept an invitation to compete in deadly children's games for a huge prize.",
+      "image": "uploads/squid-game.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "The Witcher",
+      "price": "Included with Netflix Subscription",
+      "description": "Geralt of Rivia, a monster hunter, struggles to find his place in a world where people are often more wicked than beasts.",
+      "image": "uploads/the-witcher.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Dark",
+      "price": "Included with Netflix Subscription",
+      "description": "A sci-fi thriller where the disappearance of a child leads to uncovering a mystery spanning multiple generations and timelines.",
+      "image": "uploads/dark.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Narcos",
+      "price": "Included with Netflix Subscription",
+      "description": "A dramatized look at the rise and fall of notorious drug cartels in Colombia, featuring Pablo Escobar.",
+      "image": "uploads/narcos.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Wednesday",
+      "price": "Included with Netflix Subscription",
+      "description": "A supernatural mystery series following Wednesday Addams as she uncovers secrets at Nevermore Academy.",
+      "image": "uploads/wednesday.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Bridgerton",
+      "price": "Included with Netflix Subscription",
+      "description": "A period drama following the romantic lives of the wealthy Bridgerton family in Regency-era England.",
+      "image": "uploads/bridgerton.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "The Crown",
+      "price": "Included with Netflix Subscription",
+      "description": "A historical drama series chronicling the reign of Queen Elizabeth II from the 1940s to modern times.",
+      "image": "uploads/the-crown.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Black Mirror",
+      "price": "Included with Netflix Subscription",
+      "description": "An anthology series exploring the dark side of technology and how it impacts human life.",
+      "image": "uploads/black-mirror.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "You",
+      "price": "Included with Netflix Subscription",
+      "description": "A psychological thriller following a charming but dangerously obsessive bookstore manager.",
+      "image": "uploads/you.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Lucifer",
+      "price": "Included with Netflix Subscription",
+      "description": "The Devil abandons Hell and settles in Los Angeles, helping the LAPD solve crimes while exploring his own redemption.",
+      "image": "uploads/lucifer.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "Peaky Blinders",
+      "price": "Included with Netflix Subscription",
+      "description": "A historical crime drama following the rise of the Peaky Blinders gang in post-WWI Birmingham, England.",
+      "image": "uploads/peaky-blinders.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "All of Us Are Dead",
+      "price": "Included with Netflix Subscription",
+      "description": "A group of high school students must survive a zombie outbreak that starts in their school.",
+      "image": "uploads/all-of-us-are-dead.png",
+      "company": "67a7819fee668f82d1edc20e"
+    },
+    {
+      "name": "The Sandman",
+      "price": "Included with Netflix Subscription",
+      "description": "A fantasy drama following Morpheus, the King of Dreams, as he restores balance to his realm after years of captivity.",
+      "image": "uploads/the-sandman.png",
+      "company": "67a7819fee668f82d1edc20e"
+    }
+  ]
+  

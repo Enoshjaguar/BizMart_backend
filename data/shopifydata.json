@@ -1,0 +1,201 @@
+[
+    {
+      "name": "Shopify Basic",
+      "price": "$39/month",
+      "description": "An affordable plan for new businesses, offering essential e-commerce tools, a customizable online store, and access to Shopify’s powerful dashboard.",
+      "image": "uploads/shopify_basic.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify",
+      "price": "$105/month",
+      "description": "A comprehensive plan that includes advanced reporting, professional e-commerce tools, and better shipping discounts for growing businesses.",
+      "image": "uploads/shopify_standard.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Advanced",
+      "price": "$399/month",
+      "description": "An advanced plan for scaling businesses, providing detailed analytics, custom reporting, and lowest transaction fees.",
+      "image": "uploads/shopify_advanced.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Plus",
+      "price": "Starting at $2,000/month",
+      "description": "An enterprise-level solution for high-volume businesses, featuring full customization, automation tools, and priority support.",
+      "image": "uploads/shopify_plus.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify POS (Point of Sale)",
+      "price": "Starts at $89/month",
+      "description": "A powerful retail point-of-sale system that allows businesses to sell in physical stores while syncing inventory with their online store.",
+      "image": "uploads/shopify_pos.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Payments",
+      "price": "Transaction fees: 2.9% + 30¢",
+      "description": "A built-in payment processing solution that eliminates third-party payment fees and allows seamless transactions directly within Shopify.",
+      "image": "uploads/shopify_payments.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Themes",
+      "price": "Free & paid themes (up to $350)",
+      "description": "A collection of professionally designed themes that merchants can use to create visually stunning online stores tailored to their brand.",
+      "image": "uploads/shopify_themes.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Apps & Plugins",
+      "price": "Varies (free & paid apps)",
+      "description": "An extensive marketplace offering thousands of apps to enhance store functionality, including marketing, SEO, and automation tools.",
+      "image": "uploads/shopify_apps.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Dropshipping",
+      "price": "Based on supplier pricing",
+      "description": "A streamlined dropshipping solution allowing businesses to sell products without managing inventory, using apps like Oberlo and Spocket.",
+      "image": "uploads/shopify_dropshipping.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Email Marketing",
+      "price": "Free for up to 10,000 emails/month",
+      "description": "A built-in email marketing tool that allows merchants to create, send, and track email campaigns directly from their Shopify dashboard.",
+      "image": "uploads/shopify_email.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+  
+    {
+      "name": "Shopify Starter",
+      "price": "$5/month",
+      "description": "A cost-effective plan for entrepreneurs who want to sell through social media platforms like Facebook and Instagram, with a simple checkout link.",
+      "image": "uploads/shopify_starter.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Basic",
+      "price": "$39/month",
+      "description": "An affordable plan offering essential e-commerce tools, a customizable store, and access to Shopify’s powerful dashboard.",
+      "image": "uploads/shopify_basic.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Standard",
+      "price": "$105/month",
+      "description": "A plan that includes professional e-commerce tools, better shipping discounts, and enhanced reporting for growing businesses.",
+      "image": "uploads/shopify_standard.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Advanced",
+      "price": "$399/month",
+      "description": "A premium plan for scaling businesses with detailed analytics, custom reporting, and lowest transaction fees.",
+      "image": "uploads/shopify_advanced.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Plus",
+      "price": "Starting at $2,000/month",
+      "description": "An enterprise-level solution with automation tools, full customization, and priority support for high-volume merchants.",
+      "image": "uploads/shopify_plus.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+  
+    {
+      "name": "Shopify Payments",
+      "price": "Transaction fees: 2.9% + 30¢",
+      "description": "A built-in payment processing solution that allows businesses to accept credit cards, Apple Pay, Google Pay, and Shop Pay without third-party fees.",
+      "image": "uploads/shopify_payments.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Balance",
+      "price": "Free",
+      "description": "A financial management tool that allows merchants to track earnings, make payments, and get cashback rewards for purchases made through Shopify.",
+      "image": "uploads/shopify_balance.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Capital",
+      "price": "Varies (loan-based)",
+      "description": "A funding solution that provides business loans and cash advances to Shopify merchants based on sales performance.",
+      "image": "uploads/shopify_capital.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify POS Lite",
+      "price": "Included in all Shopify plans",
+      "description": "A mobile POS system for processing in-person sales using an iPhone, iPad, or Android device with integrated payments.",
+      "image": "uploads/shopify_pos_lite.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify POS Pro",
+      "price": "$89/month per location",
+      "description": "An advanced POS system for retail stores, including staff roles, smart inventory management, and omnichannel sales features.",
+      "image": "uploads/shopify_pos_pro.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Retail Kit",
+      "price": "$219",
+      "description": "A hardware bundle that includes a Shopify POS card reader, dock, barcode scanner, and receipt printer.",
+      "image": "uploads/shopify_retail_kit.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Email Marketing",
+      "price": "Free for up to 10,000 emails/month",
+      "description": "A built-in email marketing tool that allows merchants to create, send, and track email campaigns directly from their Shopify dashboard.",
+      "image": "uploads/shopify_email.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Chat",
+      "price": "Free",
+      "description": "A live chat widget that allows merchants to engage with customers in real-time and improve sales conversions.",
+      "image": "uploads/shopify_chat.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Discounts & Promotions",
+      "price": "Included in all plans",
+      "description": "A feature that allows merchants to create discount codes, automatic promotions, and gift cards to boost sales.",
+      "image": "uploads/shopify_discounts.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Themes",
+      "price": "Free & paid themes (up to $350)",
+      "description": "A collection of professionally designed themes that merchants can use to create visually stunning online stores tailored to their brand.",
+      "image": "uploads/shopify_themes.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Apps & Plugins",
+      "price": "Varies (free & paid apps)",
+      "description": "An extensive marketplace offering thousands of apps to enhance store functionality, including marketing, SEO, and automation tools.",
+      "image": "uploads/shopify_apps.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Dropshipping",
+      "price": "Varies (based on supplier pricing)",
+      "description": "A streamlined dropshipping solution allowing businesses to sell products without managing inventory, using apps like Oberlo and Spocket.",
+      "image": "uploads/shopify_dropshipping.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    },
+    {
+      "name": "Shopify Fulfillment Network",
+      "price": "Varies (based on storage & shipping fees)",
+      "description": "A logistics network that handles inventory storage, packing, and shipping for Shopify merchants.",
+      "image": "uploads/shopify_fulfillment.png",
+      "company": "67b01b923a0a05c5edb0b18d"
+    }
+  ]
+               

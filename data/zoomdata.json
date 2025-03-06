@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Zoom Meetings",
+      "price": "Free / Paid plans start at $14.99 per month",
+      "description": "Zoom Meetings provides high-quality video conferencing with features like HD video, screen sharing, virtual backgrounds, and breakout rooms, making remote collaboration seamless.",
+      "image": "uploads/zoom_meetings.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Webinars",
+      "price": "Starting at $79 per month",
+      "description": "A powerful platform for hosting virtual events and webinars, featuring interactive Q&A, polls, and analytics to engage large audiences effortlessly.",
+      "image": "uploads/zoom_webinars.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Rooms",
+      "price": "$49 per room per month",
+      "description": "A software-based room system that transforms conference rooms into professional video collaboration spaces with high-quality audio, video, and wireless screen sharing.",
+      "image": "uploads/zoom_rooms.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Phone",
+      "price": "Starting at $10 per user per month",
+      "description": "A cloud-based VoIP phone system offering seamless business communication with call routing, voicemail transcription, and integration with other Zoom services.",
+      "image": "uploads/zoom_phone.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Events",
+      "price": "Custom pricing",
+      "description": "A comprehensive virtual event platform that supports multi-session events, networking lounges, and interactive experiences for businesses and organizations.",
+      "image": "uploads/zoom_events.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Contact Center",
+      "price": "Custom pricing",
+      "description": "An AI-powered customer engagement platform that integrates voice, video, and chat into a single solution to improve customer service experiences.",
+      "image": "uploads/zoom_contact_center.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Whiteboard",
+      "price": "Included with Zoom Meetings",
+      "description": "A collaborative online whiteboard tool that allows teams to brainstorm, visualize ideas, and work together in real-time, even after meetings end.",
+      "image": "uploads/zoom_whiteboard.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom IQ for Sales",
+      "price": "Custom pricing",
+      "description": "An AI-driven analytics tool for sales teams that provides conversation intelligence, performance insights, and coaching recommendations to improve sales outcomes.",
+      "image": "uploads/zoom_iq_sales.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom Apps",
+      "price": "Varies by app",
+      "description": "A marketplace of third-party integrations that enhance Zoom Meetings and Webinars with productivity, collaboration, and entertainment apps.",
+      "image": "uploads/zoom_apps.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    },
+    {
+      "name": "Zoom AI Companion",
+      "price": "Included in Zoom plans",
+      "description": "An AI-powered assistant that helps summarize meetings, generate action items, and provide real-time insights to boost productivity during Zoom calls.",
+      "image": "uploads/zoom_ai_companion.png",
+      "company": "67b01af53a0a05c5edb0b183"
+    }
+  ]
+  

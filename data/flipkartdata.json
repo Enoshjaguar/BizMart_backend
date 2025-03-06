@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Samsung Galaxy S23",
+      "price": "₹74,999 (India) / $899 (USA)",
+      "description": "Flagship smartphone with Snapdragon 8 Gen 2, Dynamic AMOLED display.",
+      "image": "uploads/s23.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "boAt Airdopes 141",
+      "price": "₹1,299 (India) / $20 (USA)",
+      "description": "Wireless earbuds with deep bass, 42-hour playback, and IPX4 water resistance.",
+      "image": "uploads/airdopes141.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Apple MacBook Air M2",
+      "price": "₹1,14,900 (India) / $1,099 (USA)",
+      "description": "Ultra-thin laptop with M2 chip, Retina display, and all-day battery life.",
+      "image": "uploads/macbook_air_m2.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Sony WH-1000XM5",
+      "price": "₹29,990 (India) / $399 (USA)",
+      "description": "Industry-leading noise-canceling headphones with 30-hour battery life.",
+      "image": "uploads/wh1000xm5.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Realme 4K Smart TV",
+      "price": "₹27,999 (India) / $349 (USA)",
+      "description": "55-inch Ultra HD LED Smart TV with Dolby Vision and Android OS.",
+      "image": "uploads/realme_tv.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Dell Inspiron 15",
+      "price": "₹52,999 (India) / $699 (USA)",
+      "description": "15.6-inch FHD laptop with Intel i5 11th Gen, 8GB RAM, and 512GB SSD.",
+      "image": "uploads/dell_inspiron15.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "OnePlus Nord 3",
+      "price": "₹33,999 (India) / $499 (USA)",
+      "description": "Premium mid-range smartphone with 120Hz AMOLED and Dimensity 9000.",
+      "image": "uploads/nord3.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Samsung Refrigerator 345L",
+      "price": "₹42,999 (India) / $579 (USA)",
+      "description": "Frost-free double-door refrigerator with digital inverter technology.",
+      "image": "uploads/samsung_fridge.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Mi Power Bank 20000mAh",
+      "price": "₹2,199 (India) / $30 (USA)",
+      "description": "High-capacity power bank with fast charging and dual USB output.",
+      "image": "uploads/mi_powerbank.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Apple Watch Series 9",
+      "price": "₹39,999 (India) / $399 (USA)",
+      "description": "Smartwatch with ECG, blood oxygen monitoring, and fitness tracking.",
+      "image": "uploads/apple_watch9.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Asus ROG Strix G15",
+      "price": "₹99,999 (India) / $1,299 (USA)",
+      "description": "Gaming laptop with Ryzen 7, RTX 3060, and 144Hz display.",
+      "image": "uploads/asus_rog.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "HP DeskJet 2331 Printer",
+      "price": "₹4,499 (India) / $59 (USA)",
+      "description": "All-in-one printer for home use with scanning and copying functions.",
+      "image": "uploads/hp_deskjet.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Google Pixel 7 Pro",
+      "price": "₹84,999 (India) / $899 (USA)",
+      "description": "Smartphone with Tensor G2 chip, 120Hz OLED, and advanced camera tech.",
+      "image": "uploads/pixel7pro.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Amazon Echo Dot 5th Gen",
+      "price": "₹4,499 (India) / $49 (USA)",
+      "description": "Smart speaker with Alexa, improved bass, and smart home control.",
+      "image": "uploads/echo_dot5.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "JBL Charge 5 Speaker",
+      "price": "₹14,999 (India) / $149 (USA)",
+      "description": "Portable Bluetooth speaker with 20-hour battery and waterproof design.",
+      "image": "uploads/jbl_charge5.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Samsung Galaxy Tab S9",
+      "price": "₹85,999 (India) / $999 (USA)",
+      "description": "Premium tablet with S Pen support, Snapdragon 8 Gen 2, and AMOLED display.",
+      "image": "uploads/tab_s9.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Lenovo Legion 5",
+      "price": "₹1,04,999 (India) / $1,399 (USA)",
+      "description": "Gaming laptop with Ryzen 7, RTX 3070, and 165Hz display.",
+      "image": "uploads/legion5.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Canon EOS 1500D",
+      "price": "₹32,999 (India) / $479 (USA)",
+      "description": "DSLR camera with 24.1 MP sensor, Wi-Fi, and full HD recording.",
+      "image": "uploads/canon_1500d.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Xiaomi Smart Air Fryer",
+      "price": "₹9,999 (India) / $99 (USA)",
+      "description": "4L digital air fryer with smart app control and oil-free cooking.",
+      "image": "uploads/air_fryer.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    },
+    {
+      "name": "Nike Air Zoom Pegasus 39",
+      "price": "₹9,999 (India) / $129 (USA)",
+      "description": "High-performance running shoes with responsive cushioning and breathability.",
+      "image": "uploads/pegasus39.png",
+      "company": "67a77f47ee668f82d1edc1fe"
+    }
+  ]
+  

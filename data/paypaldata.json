@@ -1,0 +1,38 @@
+[
+    {
+      "name": "PayPal Checkout",
+      "price": "Transaction fee: 2.9% + $0.30 per transaction",
+      "description": "A seamless and secure payment solution that allows businesses to accept payments via PayPal, credit cards, and digital wallets.",
+      "image": "uploads/paypal_checkout.png",
+      "company": "67b01bd03a0a05c5edb0b18f"
+    },
+    {
+      "name": "PayPal Business Account",
+      "price": "Free to sign up",
+      "description": "A business-focused PayPal account that enables merchants to send invoices, accept payments, and manage transactions easily.",
+      "image": "uploads/paypal_business.png",
+      "company": "67b01bd03a0a05c5edb0b18f"
+    },
+    {
+      "name": "PayPal Working Capital",
+      "price": "Varies (loan-based)",
+      "description": "A financing solution that provides cash advances to businesses based on their PayPal sales, with flexible repayment options.",
+      "image": "uploads/paypal_working_capital.png",
+      "company": "67b01bd03a0a05c5edb0b18f"
+    },
+    {
+      "name": "PayPal Zettle POS",
+      "price": "$79 (card reader)",
+      "description": "A point-of-sale (POS) system that includes a card reader and software to help businesses accept in-person payments effortlessly.",
+      "image": "uploads/paypal_zettle.png",
+      "company": "67b01bd03a0a05c5edb0b18f"
+    },
+    {
+      "name": "PayPal Buy Now, Pay Later",
+      "price": "No interest for qualifying purchases",
+      "description": "A flexible payment option that allows customers to split their purchase into interest-free installments, increasing sales conversions.",
+      "image": "uploads/paypal_bnpl.png",
+      "company": "67b01bd03a0a05c5edb0b18f"
+    }
+  ]
+  

@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Google Pixel 7 Pro",
+      "price": "₹84,999 (India) / $899 (USA)",
+      "description": "Flagship smartphone with Google Tensor G2, 120Hz OLED display, and advanced AI camera.",
+      "image": "uploads/pixel7pro.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Pixel 7",
+      "price": "₹59,999 (India) / $599 (USA)",
+      "description": "Premium smartphone with Google Tensor G2, 90Hz OLED display, and pure Android experience.",
+      "image": "uploads/pixel7.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Pixel 6a",
+      "price": "₹43,999 (India) / $449 (USA)",
+      "description": "Affordable smartphone with Google Tensor, AI-powered camera, and long battery life.",
+      "image": "uploads/pixel6a.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Pixel Watch",
+      "price": "₹29,999 (India) / $349 (USA)",
+      "description": "Premium smartwatch with Fitbit health tracking and Google Assistant integration.",
+      "image": "uploads/pixelwatch.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Pixel Buds Pro",
+      "price": "₹19,999 (India) / $199 (USA)",
+      "description": "Wireless earbuds with active noise cancellation and deep bass.",
+      "image": "uploads/pixelbudspro.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Hub (2nd Gen)",
+      "price": "₹7,999 (India) / $99 (USA)",
+      "description": "Smart display with Google Assistant, sleep tracking, and smart home controls.",
+      "image": "uploads/nesthub2.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Mini (2nd Gen)",
+      "price": "₹3,999 (India) / $49 (USA)",
+      "description": "Compact smart speaker with Google Assistant and improved sound quality.",
+      "image": "uploads/nestmini2.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Audio",
+      "price": "₹7,499 (India) / $99 (USA)",
+      "description": "Smart speaker with high-quality audio and deep bass.",
+      "image": "uploads/nestaudio.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Cam (Indoor)",
+      "price": "₹8,999 (India) / $99 (USA)",
+      "description": "Indoor security camera with AI motion detection and night vision.",
+      "image": "uploads/nestcamindoor.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Cam (Outdoor)",
+      "price": "₹12,999 (India) / $179 (USA)",
+      "description": "Weatherproof outdoor security camera with night vision and two-way audio.",
+      "image": "uploads/nestcamoutdoor.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Doorbell (Wired)",
+      "price": "₹14,999 (India) / $179 (USA)",
+      "description": "Smart video doorbell with 24/7 recording and person detection.",
+      "image": "uploads/nestdoorbell.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Chromecast with Google TV",
+      "price": "₹6,499 (India) / $49 (USA)",
+      "description": "Streaming device with Google TV, 4K HDR support, and voice remote.",
+      "image": "uploads/chromecasttv.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google WiFi (Mesh Router)",
+      "price": "₹15,999 (India) / $99 (USA)",
+      "description": "Mesh WiFi system for fast, reliable internet coverage.",
+      "image": "uploads/googlewifi.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Nest Thermostat",
+      "price": "₹10,999 (India) / $129 (USA)",
+      "description": "Smart thermostat with energy-saving features and app control.",
+      "image": "uploads/nestthermostat.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Stadia Controller",
+      "price": "₹5,999 (India) / $69 (USA)",
+      "description": "Wireless gaming controller designed for cloud gaming on Stadia.",
+      "image": "uploads/stadiacontroller.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Titan Security Key",
+      "price": "₹3,499 (India) / $30 (USA)",
+      "description": "Physical security key for two-factor authentication.",
+      "image": "uploads/titankey.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    },
+    {
+      "name": "Google Pixel Tablet",
+      "price": "₹49,999 (India) / $499 (USA)",
+      "description": "Upcoming Android tablet with Google Tensor and stylus support.",
+      "image": "uploads/pixeltablet.png",
+      "company": "67a77ea1ee668f82d1edc1f6"
+    }
+  ]
+  

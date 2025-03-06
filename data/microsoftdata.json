@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Microsoft Surface Laptop 5",
+      "price": "₹1,12,999 (India) / $1,299 (USA)",
+      "description": "Powerful laptop with Intel Core i7, touchscreen, and premium build.",
+      "image": "uploads/surface5.png",
+      "company": "67a77e56ee668f82d1edc1f4"
+    },
+    {
+      "name": "Microsoft Surface Pro 9",
+      "price": "₹1,29,999 (India) / $1,499 (USA)",
+      "description": "2-in-1 convertible tablet with high-performance Intel Evo platform.",
+      "image": "uploads/surfacepro9.png",
+      "company": "67a77e56ee668f82d1edc1f4"
+    },
+    {
+      "name": "Microsoft Surface Studio 2+",
+      "price": "₹3,79,999 (India) / $4,299 (USA)",
+      "description": "High-end all-in-one PC with stunning touchscreen and powerful GPU.",
+      "image": "uploads/studio2.png",
+      "company": "67a77e56ee668f82d1edc1f4"
+    },
+    {
+      "name": "Microsoft Xbox Series X",
+      "price": "₹55,999 (India) / $499 (USA)",
+      "description": "Next-gen gaming console with 4K gaming and ultra-fast SSD.",
+      "image": "uploads/xboxx.png",
+      "company": "67a77e56ee668f82d1edc1f4"
+    },
+    {
+      "name": "Microsoft Xbox Series S",
+      "price": "₹37,999 (India) / $299 (USA)",
+      "description": "Compact gaming console with digital-only experience and fast load times.",
+      "image": "uploads/xboxs.png",
+      "company": "67a77e56ee668f82d1edc1f4"
+    },
+    {
+      "name": "Microsoft Surface Go 3",
+      "price": "₹57,999 (India) / $549 (USA)",
+      "description": "Ultra-portable 2-in-1 laptop with a 10.5-inch touchscreen.",
+      "image": "uploads/surfacego3.png",
+      "company": "67a77e56ee668f82d1edc1f4"
+    }
+  ]  

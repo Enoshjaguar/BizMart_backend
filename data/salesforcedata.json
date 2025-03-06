@@ -1,0 +1,136 @@
+[
+    {
+      "name": "Salesforce Sales Cloud",
+      "price": "₹7,499/user/month (India) / $75/user/month (USA)",
+      "description": "AI-powered CRM for sales automation, lead management, and forecasting.",
+      "image": "uploads/salescloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "price": "₹8,999/user/month (India) / $100/user/month (USA)",
+      "description": "Customer support solution with AI chatbots, case tracking, and automation.",
+      "image": "uploads/servicecloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Marketing Cloud",
+      "price": "₹12,999/month (India) / $1,250/month (USA)",
+      "description": "Omnichannel marketing automation with AI-driven insights and personalization.",
+      "image": "uploads/marketingcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Commerce Cloud",
+      "price": "₹15,999/month (India) / $2,000/month (USA)",
+      "description": "E-commerce platform for B2B and B2C businesses with AI recommendations.",
+      "image": "uploads/commercecloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Experience Cloud",
+      "price": "₹6,999/user/month (India) / $75/user/month (USA)",
+      "description": "Customer portal and community-building platform for businesses.",
+      "image": "uploads/experiencecloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Analytics Cloud",
+      "price": "₹9,999/user/month (India) / $150/user/month (USA)",
+      "description": "Advanced business intelligence and AI-driven analytics solution.",
+      "image": "uploads/analyticscloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Integration Cloud",
+      "price": "₹19,999/month (India) / $2,500/month (USA)",
+      "description": "Enterprise integration solution for connecting multiple business apps.",
+      "image": "uploads/integrationcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Einstein AI",
+      "price": "₹10,499/user/month (India) / $200/user/month (USA)",
+      "description": "AI-driven analytics and automation for CRM and business intelligence.",
+      "image": "uploads/einsteinai.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce MuleSoft",
+      "price": "₹25,999/month (India) / $3,000/month (USA)",
+      "description": "API management and cloud integration platform.",
+      "image": "uploads/mulesoft.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Slack",
+      "price": "₹699/user/month (India) / $7.25/user/month (USA)",
+      "description": "Enterprise collaboration and messaging platform.",
+      "image": "uploads/slack.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Pardot",
+      "price": "₹90,000/month (India) / $1,250/month (USA)",
+      "description": "B2B marketing automation platform with AI-driven analytics.",
+      "image": "uploads/pardot.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce CPQ",
+      "price": "₹8,499/user/month (India) / $75/user/month (USA)",
+      "description": "Automated quoting and pricing solution for sales teams.",
+      "image": "uploads/cpq.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Field Service",
+      "price": "₹11,999/user/month (India) / $150/user/month (USA)",
+      "description": "Field workforce management solution with real-time scheduling.",
+      "image": "uploads/fieldservice.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Nonprofit Cloud",
+      "price": "Custom Pricing",
+      "description": "CRM solution tailored for nonprofit organizations and fundraising.",
+      "image": "uploads/nonprofitcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Health Cloud",
+      "price": "₹10,499/user/month (India) / $300/user/month (USA)",
+      "description": "AI-powered healthcare CRM for patient management.",
+      "image": "uploads/healthcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Financial Services Cloud",
+      "price": "₹12,499/user/month (India) / $325/user/month (USA)",
+      "description": "CRM tailored for financial institutions with AI-powered insights.",
+      "image": "uploads/financialcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce Government Cloud",
+      "price": "Custom Pricing",
+      "description": "Secure cloud platform designed for government agencies.",
+      "image": "uploads/governmentcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce AppExchange",
+      "price": "Varies per app",
+      "description": "Marketplace for enterprise apps that extend Salesforce functionality.",
+      "image": "uploads/appexchange.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    },
+    {
+      "name": "Salesforce IoT Cloud",
+      "price": "Custom Pricing",
+      "description": "Real-time data processing platform for IoT applications.",
+      "image": "uploads/iotcloud.png",
+      "company": "67a77efeee668f82d1edc1fa"
+    }
+  ]
+  

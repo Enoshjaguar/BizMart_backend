@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Samsung Galaxy A74 5G",
+        "price": "₹42,999 (India) / $549 (USA)",
+        "description": "High-performance mid-range smartphone with Snapdragon 7 Gen 1, 120Hz AMOLED display, and 108MP camera.",
+        "image": "uploads/a74.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy A24 5G",
+        "price": "₹22,999 (India) / $299 (USA)",
+        "description": "Affordable 5G smartphone with Snapdragon 695, 90Hz AMOLED display, and 5000mAh battery.",
+        "image": "uploads/a24.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy M54 5G",
+        "price": "₹35,999 (India) / $449 (USA)",
+        "description": "Powerful mid-range smartphone with Exynos 1380, 108MP OIS camera, and 6000mAh battery.",
+        "image": "uploads/m54.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy F54 5G",
+        "price": "₹29,999 (India) / $399 (USA)",
+        "description": "Affordable 5G smartphone with Exynos 1380, 120Hz AMOLED display, and 6000mAh battery.",
+        "image": "uploads/f54.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy Tab S9 Ultra",
+        "price": "₹1,09,999 (India) / $1,199 (USA)",
+        "description": "High-end Android tablet with 14.6-inch AMOLED, Snapdragon 8 Gen 2, and S Pen support.",
+        "image": "uploads/tabs9ultra.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy Tab A9+",
+        "price": "₹24,999 (India) / $279 (USA)",
+        "description": "Budget-friendly Android tablet with 11-inch LCD, Dolby Atmos speakers, and 4GB RAM.",
+        "image": "uploads/taba9plus.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy Watch6 Classic",
+        "price": "₹39,999 (India) / $429 (USA)",
+        "description": "Premium smartwatch with rotating bezel, Wear OS, and advanced health tracking.",
+        "image": "uploads/watch6classic.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy Watch5 Pro",
+        "price": "₹44,999 (India) / $449 (USA)",
+        "description": "Smartwatch with sapphire crystal display, 80-hour battery, and GPS tracking.",
+        "image": "uploads/watch5pro.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Galaxy Buds FE",
+        "price": "₹9,999 (India) / $99 (USA)",
+        "description": "Affordable true wireless earbuds with ANC, rich bass, and comfortable fit.",
+        "image": "uploads/budsfe.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung 75-inch Neo QLED 8K TV",
+        "price": "₹5,49,999 (India) / $4,999 (USA)",
+        "description": "Premium 8K Smart TV with Quantum Matrix Tech and AI-powered upscaling.",
+        "image": "uploads/qled8k75.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung 55-inch Crystal UHD 4K TV",
+        "price": "₹64,999 (India) / $599 (USA)",
+        "description": "Affordable 4K TV with PurColor, HDR10+, and Crystal Processor 4K.",
+        "image": "uploads/uhd55.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Bespoke 4-Door Refrigerator",
+        "price": "₹2,59,999 (India) / $2,499 (USA)",
+        "description": "Customizable refrigerator with AI-powered cooling and beverage center.",
+        "image": "uploads/fridge4door.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung Jet 90 Cordless Vacuum Cleaner",
+        "price": "₹49,999 (India) / $499 (USA)",
+        "description": "Powerful cordless vacuum with Digital Inverter Motor and 200W suction.",
+        "image": "uploads/jet90.png",
+        "company": "67a78133ee668f82d1edc20a"
+    },
+    {
+        "name": "Samsung AirDresser",
+        "price": "₹1,29,999 (India) / $1,399 (USA)",
+        "description": "Smart clothing care system with steam technology and deodorizing filter.",
+        "image": "uploads/airdresser.png",
+        "company": "67a78133ee668f82d1edc20a"
+    }
+]

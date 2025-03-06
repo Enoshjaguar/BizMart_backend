@@ -1,0 +1,114 @@
+[
+    {
+      "name": "UberX",
+      "price": "Varies by location",
+      "description": "UberX is the most popular and affordable ride option, offering private rides with everyday cars. It's a budget-friendly choice for individuals and small groups.",
+      "image": "uploads/uberx.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "UberXL",
+      "price": "Varies by location",
+      "description": "UberXL is a larger ride option for groups of up to 6 people, providing spacious vehicles for a more comfortable experience.",
+      "image": "uploads/uberxl.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Black",
+      "price": "Premium pricing",
+      "description": "Uber Black offers luxury rides with professional drivers and high-end vehicles, ensuring a stylish and comfortable travel experience.",
+      "image": "uploads/uber_black.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Comfort",
+      "price": "Higher than UberX",
+      "description": "Uber Comfort offers newer, more spacious vehicles with highly-rated drivers, ensuring a smoother and more premium ride experience.",
+      "image": "uploads/uber_comfort.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Green",
+      "price": "Similar to UberX",
+      "description": "Uber Green is an environmentally friendly ride option, using hybrid or electric vehicles to reduce carbon emissions.",
+      "image": "uploads/uber_green.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Reserve",
+      "price": "Varies by ride type",
+      "description": "Uber Reserve allows users to schedule rides up to 90 days in advance, ensuring availability and peace of mind for important trips.",
+      "image": "uploads/uber_reserve.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Pet",
+      "price": "Varies by location",
+      "description": "Uber Pet allows riders to travel with their pets, providing a pet-friendly vehicle and driver who is comfortable transporting animals.",
+      "image": "uploads/uber_pet.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Pool (UberX Share)",
+      "price": "Lower than UberX",
+      "description": "Uber Pool, now called UberX Share, allows riders to share their trip with others heading in the same direction for a lower fare.",
+      "image": "uploads/uber_pool.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Moto",
+      "price": "Most affordable",
+      "description": "Uber Moto offers quick and budget-friendly rides on motorcycles, making it ideal for solo travelers in busy urban areas.",
+      "image": "uploads/uber_moto.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Auto",
+      "price": "Affordable pricing",
+      "description": "Uber Auto connects riders with auto-rickshaws, offering an affordable and convenient way to travel short distances in cities.",
+      "image": "uploads/uber_auto.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+  
+  
+    {
+      "name": "Uber Eats",
+      "price": "Varies by restaurant",
+      "description": "Uber Eats is an online food delivery platform that connects users with restaurants and delivers meals quickly to their location.",
+      "image": "uploads/uber_eats.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Eats Pass",
+      "price": "$9.99/month",
+      "description": "Uber Eats Pass offers free delivery and exclusive discounts on food orders, making dining out more affordable.",
+      "image": "uploads/uber_eats_pass.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+  
+   
+    {
+      "name": "Uber for Business",
+      "price": "Custom pricing",
+      "description": "Uber for Business provides companies with transportation solutions, including employee rides, corporate travel, and meal programs.",
+      "image": "uploads/uber_for_business.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+    {
+      "name": "Uber Freight",
+      "price": "Custom pricing",
+      "description": "Uber Freight connects shippers with truck drivers, offering an efficient logistics solution for moving cargo across different locations.",
+      "image": "uploads/uber_freight.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    },
+  
+   
+    {
+      "name": "Uber One",
+      "price": "$9.99/month",
+      "description": "Uber One is a membership program that offers discounts on Uber rides and Uber Eats orders, priority support, and exclusive perks.",
+      "image": "uploads/uber_one.png",
+      "company": "67b019463a0a05c5edb0b17f"
+    }
+  ]
+  

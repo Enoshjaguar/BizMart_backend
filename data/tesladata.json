@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Tesla Model S",
+      "price": "$89,990",
+      "description": "Luxury electric sedan with 405-mile range and 0-60 mph in 1.99s.",
+      "image": "uploads/model_s.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Model 3",
+      "price": "$42,990",
+      "description": "Affordable electric sedan with 358-mile range and autopilot features.",
+      "image": "uploads/model_3.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Model X",
+      "price": "$99,990",
+      "description": "SUV with Falcon Wing doors, 348-mile range, and full self-driving capability.",
+      "image": "uploads/model_x.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Model Y",
+      "price": "$46,990",
+      "description": "Compact electric SUV with 330-mile range and advanced safety features.",
+      "image": "uploads/model_y.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Cybertruck",
+      "price": "$79,900",
+      "description": "Futuristic electric pickup with armored glass and 500-mile range.",
+      "image": "uploads/cybertruck.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Roadster",
+      "price": "$200,000",
+      "description": "High-performance electric sports car with 620-mile range and 250 mph top speed.",
+      "image": "uploads/roadster.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Semi Truck",
+      "price": "$180,000",
+      "description": "Electric truck with 500-mile range, enhanced autopilot, and low operating costs.",
+      "image": "uploads/semi_truck.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Powerwall",
+      "price": "$11,500",
+      "description": "Rechargeable home battery for solar energy storage and backup power.",
+      "image": "uploads/powerwall.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Solar Roof",
+      "price": "Varies",
+      "description": "Sleek solar panels integrated into durable roofing tiles for energy efficiency.",
+      "image": "uploads/solar_roof.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Supercharger",
+      "price": "Varies",
+      "description": "Fast charging network providing up to 200 miles of range in 15 minutes.",
+      "image": "uploads/supercharger.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Wall Connector",
+      "price": "$475",
+      "description": "Home charging station for Tesla vehicles with WiFi connectivity.",
+      "image": "uploads/wall_connector.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Autopilot",
+      "price": "$12,000",
+      "description": "Advanced driver assistance system with full self-driving capabilities.",
+      "image": "uploads/autopilot.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Full Self-Driving",
+      "price": "$15,000",
+      "description": "Enhanced autonomous driving software with city and highway navigation.",
+      "image": "uploads/fsd.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla CCS Adapter",
+      "price": "$250",
+      "description": "Adapter for non-Tesla charging networks, enabling broader charging access.",
+      "image": "uploads/ccs_adapter.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Model S Plaid",
+      "price": "$108,490",
+      "description": "Performance variant with tri-motor setup, 1,020 horsepower, and 200 mph top speed.",
+      "image": "uploads/model_s_plaid.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Model X Plaid",
+      "price": "$118,490",
+      "description": "High-performance electric SUV with 1,020 horsepower and 0-60 mph in 2.5s.",
+      "image": "uploads/model_x_plaid.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Home Energy Gateway",
+      "price": "$1,000",
+      "description": "Smart energy management system for monitoring home energy use.",
+      "image": "uploads/home_gateway.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Solar Inverter",
+      "price": "$3,500",
+      "description": "Highly efficient inverter designed for Tesla solar panels and Powerwall.",
+      "image": "uploads/solar_inverter.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Model 3 Performance",
+      "price": "$53,990",
+      "description": "High-performance version of Model 3 with 3.1s 0-60 mph and track mode.",
+      "image": "uploads/model3_performance.png",
+      "company": "67a780a8ee668f82d1edc204"
+    },
+    {
+      "name": "Tesla Wireless Charger",
+      "price": "$75",
+      "description": "Qi-certified wireless charging pad for mobile devices.",
+      "image": "uploads/wireless_charger.png",
+      "company": "67a780a8ee668f82d1edc204"
+    }
+  ]
+  

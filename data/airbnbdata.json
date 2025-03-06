@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Airbnb Stays",
+      "price": "Varies by listing",
+      "description": "Find unique accommodations around the world, from cozy apartments to luxurious villas, offering a home-like experience for travelers.",
+      "image": "uploads/airbnb_stays.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Luxe",
+      "price": "Premium pricing",
+      "description": "Airbnb Luxe offers high-end vacation rentals, including private villas, luxury estates, and penthouses with world-class amenities and concierge services.",
+      "image": "uploads/airbnb_luxe.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Experiences",
+      "price": "Varies by experience",
+      "description": "Airbnb Experiences connect travelers with local hosts who offer unique activities, from cooking classes and guided tours to outdoor adventures.",
+      "image": "uploads/airbnb_experiences.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Adventures",
+      "price": "Varies by package",
+      "description": "Multi-day trips designed by local experts, offering immersive travel experiences like hiking, safaris, and cultural tours in exotic locations.",
+      "image": "uploads/airbnb_adventures.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb for Work",
+      "price": "Varies by stay",
+      "description": "Business-friendly accommodations with workspaces, Wi-Fi, and long-term stay options, catering to corporate travelers and remote workers.",
+      "image": "uploads/airbnb_for_work.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Monthly Stays",
+      "price": "Discounted long-term pricing",
+      "description": "Extended stays for a month or longer, offering discounts for digital nomads, students, and professionals seeking flexible housing options.",
+      "image": "uploads/airbnb_monthly.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Plus",
+      "price": "Premium pricing",
+      "description": "A curated selection of high-quality homes that meet Airbnb’s design, comfort, and hospitality standards, ensuring a superior stay experience.",
+      "image": "uploads/airbnb_plus.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Host Protection Insurance",
+      "price": "Included for hosts",
+      "description": "Airbnb provides insurance coverage for hosts against property damage and liability claims to ensure peace of mind when renting their space.",
+      "image": "uploads/airbnb_host_protection.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Co-Hosting",
+      "price": "Varies by host",
+      "description": "A service that allows property owners to share hosting responsibilities with co-hosts who help manage bookings, guest interactions, and property maintenance.",
+      "image": "uploads/airbnb_co_hosting.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    },
+    {
+      "name": "Airbnb Online Experiences",
+      "price": "Varies by experience",
+      "description": "Virtual experiences hosted by experts, offering activities like cooking classes, meditation sessions, and live cultural performances from around the world.",
+      "image": "uploads/airbnb_online_experiences.png",
+      "company": "67b0198c3a0a05c5edb0b181"
+    }
+  ]
+  

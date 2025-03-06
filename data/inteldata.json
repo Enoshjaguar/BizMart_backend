@@ -1,0 +1,108 @@
+[
+    {
+      "name": "Intel Core i9-14900K",
+      "price": "$589 (USA) / ₹55,000 (India)",
+      "description": "High-performance 14th Gen desktop processor with 24 cores and up to 6.0 GHz clock speed.",
+      "image": "uploads/corei9-14900k.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Core i7-14700K",
+      "price": "$409 (USA) / ₹40,000 (India)",
+      "description": "14th Gen gaming processor with 20 cores, supporting PCIe 5.0 and DDR5 memory.",
+      "image": "uploads/corei7-14700k.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Core i5-14600K",
+      "price": "$319 (USA) / ₹30,000 (India)",
+      "description": "Mid-range 14th Gen processor with 14 cores, ideal for gaming and content creation.",
+      "image": "uploads/corei5-14600k.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Core i3-14100",
+      "price": "$129 (USA) / ₹12,000 (India)",
+      "description": "Entry-level 14th Gen processor with 4 cores, suitable for basic computing tasks.",
+      "image": "uploads/corei3-14100.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Xeon Platinum 8480+",
+      "price": "$8,999 (USA)",
+      "description": "High-end server processor with 56 cores, designed for data centers and AI workloads.",
+      "image": "uploads/xeon-platinum-8480.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Xeon Gold 6428N",
+      "price": "$4,299 (USA)",
+      "description": "Server-grade processor with 32 cores, optimized for enterprise applications.",
+      "image": "uploads/xeon-gold-6428n.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Arc A770",
+      "price": "$349 (USA) / ₹32,000 (India)",
+      "description": "High-performance gaming GPU with 16GB GDDR6 memory, supports ray tracing and AI-enhanced gaming.",
+      "image": "uploads/arc-a770.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Arc A750",
+      "price": "$249 (USA) / ₹24,000 (India)",
+      "description": "Mid-range GPU for 1080p gaming, featuring Intel Xe HPG architecture.",
+      "image": "uploads/arc-a750.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel NUC 13 Extreme Kit",
+      "price": "$1,399 (USA)",
+      "description": "Compact gaming PC featuring 13th Gen Intel Core i9 and upgradable GPU slot.",
+      "image": "uploads/nuc-13-extreme.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Optane SSD P5800X",
+      "price": "$1,299 (USA)",
+      "description": "Ultra-fast NVMe SSD with Intel Optane technology, designed for enterprise storage.",
+      "image": "uploads/optane-p5800x.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Core Ultra 7 155H",
+      "price": "$579 (USA) / ₹52,000 (India)",
+      "description": "AI-enhanced mobile processor for high-end laptops with 16 cores and Intel Arc graphics.",
+      "image": "uploads/core-ultra7-155h.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Core Ultra 5 125H",
+      "price": "$429 (USA) / ₹38,000 (India)",
+      "description": "Power-efficient laptop processor with 14 cores, suitable for productivity and light gaming.",
+      "image": "uploads/core-ultra5-125h.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Atom C3958",
+      "price": "$899 (USA)",
+      "description": "Low-power server processor with 16 cores, ideal for networking and cloud applications.",
+      "image": "uploads/atom-c3958.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Movidius Myriad X",
+      "price": "$99 (USA)",
+      "description": "AI vision processing unit (VPU) optimized for edge computing and deep learning inference.",
+      "image": "uploads/movidius-myriadx.png",
+      "company": "67a781e7ee668f82d1edc210"
+    },
+    {
+      "name": "Intel Ethernet Controller X710",
+      "price": "$299 (USA)",
+      "description": "High-performance 10GbE network adapter for data center applications.",
+      "image": "uploads/ethernet-x710.png",
+      "company": "67a781e7ee668f82d1edc210"
+    }
+  ]
+  

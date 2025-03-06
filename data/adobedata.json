@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Adobe Photoshop CC",
+      "price": "₹1,675/month (India) / $20.99/month (USA)",
+      "description": "Adobe Photoshop CC is the world's leading photo editing software, offering powerful tools for image manipulation, retouching, and graphic design. With AI-powered features like Neural Filters, advanced selection tools, and seamless cloud integration, Photoshop enables both professionals and hobbyists to create stunning visuals with ease. Whether you are working on photography, digital painting, or 3D artwork, Photoshop provides an unmatched creative experience.",
+      "image": "uploads/photoshop.png",
+      "company": "67b018ae3a0a05c5edb0b17b"
+    },
+    {
+      "name": "Adobe Premiere Pro",
+      "price": "₹1,675/month (India) / $20.99/month (USA)",
+      "description": "Adobe Premiere Pro is an industry-standard video editing software designed for filmmakers, content creators, and video professionals. It offers powerful tools for video editing, including multi-camera editing, advanced color grading, motion graphics, and seamless integration with Adobe After Effects. With its AI-powered features like Auto Reframe and Lumetri Color, Premiere Pro makes video production faster and more efficient, whether you're working on short films, YouTube content, or Hollywood-level productions.",
+      "image": "uploads/premierepro.png",
+      "company": "67b018ae3a0a05c5edb0b17b"
+    },
+    {
+      "name": "Adobe Illustrator",
+      "price": "₹1,675/month (India) / $20.99/month (USA)",
+      "description": "Adobe Illustrator is the industry-leading vector graphics software used by designers, illustrators, and artists worldwide. It provides powerful tools for creating logos, icons, illustrations, and complex vector artwork. With features like precision drawing tools, advanced typography controls, and integration with Adobe Fonts and Adobe Stock, Illustrator enables users to craft stunning designs that scale infinitely without losing quality. Whether you're designing for print, web, or mobile, Illustrator is the ultimate tool for vector-based creativity.",
+      "image": "uploads/illustrator.png",
+      "company": "67b018ae3a0a05c5edb0b17b"
+    },
+    {
+      "name": "Adobe After Effects",
+      "price": "₹1,675/month (India) / $20.99/month (USA)",
+      "description": "Adobe After Effects is the go-to software for motion graphics and visual effects, used in film production, video editing, and animation. It allows users to create cinematic visual effects, motion tracking, keying, and compositing. With its integration with Premiere Pro and other Adobe Creative Cloud apps, After Effects is essential for anyone looking to create stunning animations, intros, and special effects for video projects.",
+      "image": "uploads/aftereffects.png",
+      "company": "67b018ae3a0a05c5edb0b17b"
+    },
+    {
+      "name": "Adobe InDesign",
+      "price": "₹1,675/month (India) / $20.99/month (USA)",
+      "description": "Adobe InDesign is the leading desktop publishing software used for creating professional layouts for print and digital media. It provides advanced tools for designing brochures, magazines, posters, eBooks, and interactive PDFs. With precise typography controls, layout grids, and seamless integration with Adobe Stock and Fonts, InDesign helps designers produce visually appealing content that meets high professional standards.",
+      "image": "uploads/indesign.png",
+      "company": "67b018ae3a0a05c5edb0b17b"
+    }
+  ]
+  

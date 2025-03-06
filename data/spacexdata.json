@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Falcon 9",
+      "price": "Estimated launch cost: $67 million",
+      "description": "A reusable, two-stage rocket designed for reliable and safe transport of satellites, cargo, and humans to orbit. Falcon 9 is the first orbital-class rocket capable of reflight.",
+      "image": "uploads/falcon9.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Falcon Heavy",
+      "price": "Estimated launch cost: $97 million",
+      "description": "The world’s most powerful operational rocket, capable of carrying large payloads into orbit and beyond, with three Falcon 9 boosters working in tandem.",
+      "image": "uploads/falcon_heavy.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Starship",
+      "price": "Under development",
+      "description": "A fully reusable next-generation spacecraft designed for deep space missions, including Mars colonization. Starship aims to carry large cargo loads and passengers.",
+      "image": "uploads/starship.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Dragon Capsule",
+      "price": "Custom pricing for missions",
+      "description": "A spacecraft designed to transport cargo and crew to the International Space Station (ISS) and beyond. It features life-support systems and reusability.",
+      "image": "uploads/dragon_capsule.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Starlink",
+      "price": "Monthly subscription: $120 (Residential) / $500 (Business)",
+      "description": "A satellite internet service providing high-speed, low-latency broadband globally, especially in remote and underserved areas.",
+      "image": "uploads/starlink.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Raptor Engine",
+      "price": "Not publicly available",
+      "description": "A highly efficient full-flow staged combustion engine that powers Starship and Super Heavy booster, using liquid methane and liquid oxygen as propellants.",
+      "image": "uploads/raptor_engine.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Super Heavy Booster",
+      "price": "Under development",
+      "description": "A massive rocket booster designed to lift Starship into orbit. It is fully reusable and features multiple Raptor engines for maximum thrust.",
+      "image": "uploads/super_heavy.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Polaris Program",
+      "price": "Private spaceflight mission",
+      "description": "A series of private crewed missions designed to test new spaceflight technologies, including the first commercial spacewalk using SpaceX's advanced spacecraft.",
+      "image": "uploads/polaris_program.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "Lunar Starship",
+      "price": "NASA contract: $2.9 billion",
+      "description": "A variant of the Starship spacecraft designed to land astronauts on the Moon under NASA’s Artemis program, featuring enhanced landing capabilities.",
+      "image": "uploads/lunar_starship.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    },
+    {
+      "name": "SpaceX Rideshare Program",
+      "price": "Starts at $275,000 per payload",
+      "description": "A cost-effective way for small satellite companies to launch their payloads by sharing a ride on Falcon 9 missions, reducing overall costs.",
+      "image": "uploads/spacex_rideshare.png",
+      "company": "67b01b573a0a05c5edb0b18b"
+    }
+  ]
+  
